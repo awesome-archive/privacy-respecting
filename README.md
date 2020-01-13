@@ -4,9 +4,9 @@
 
 > Curated List of Privacy Respecting Services and Software
 
-_Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
+_Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributing._
 
-##### Contents
+#### Contents
 
 - [What?](#what)
 - [Search Engines](#search-engines)
@@ -119,6 +119,8 @@ The list is separated into topics and each service or software stated gives supp
 **🔏 Alternatives:**
 
 - [ProtonVPN](https://protonvpn.com/) - As a Swiss VPN provider, Proton does not log user activity or share data with third parties. Tor is also supported.
+- [Mullvad](https://mullvad.net/) - Swedish based VPN provider that retains no logs, and uses a mostly open source and transparent infrastructure available to the public. Accepts Bitcoin, anonymous cash payments via envelope, PayPal, and more.
+- [OVPN](https://www.ovpn.com/) - Swedish provider that operates VPN servers without any hard drives, has a strict no logs policy, and publishes transparency reports. Accepts Bitcoin, anonymous cash payments, PayPal, and more.
 
 ## Email
 
@@ -228,12 +230,9 @@ The list is separated into topics and each service or software stated gives supp
 - [EPIC privacy tools](https://www.epic.org/privacy/tools.html) - EPIC's collection of privacy-preserving tools.
 - [Secured.fyi](https://secured.fyi/) - A ranking of paid and free services based on security and privacy attributes.
 - [That one privacy site](https://thatoneprivacysite.net/) - A detailed privacy-oriented comparison between VPN and E-mail providers.
-
-## Contributing
-
-See [contribution guidelines](CONTRIBUTING.md/#readme).
-
----
+- [Disroot](https://disroot.org/) - A platform providing online services based on principles of freedom, privacy, federation and decentralization.
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
+[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
+[![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
